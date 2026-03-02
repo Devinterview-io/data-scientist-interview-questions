@@ -9,6 +9,8 @@
 
 #### You can also find all 100 answers here 👉 [Devinterview.io - Data Scientist](https://devinterview.io/questions/machine-learning-and-data-science/data-scientist-interview-questions)
 
+#### [Data Science Job Boards to apply for data science roles](https://www.datateams.ai/blog/data-job-boards)
+
 <br>
 
 ## 1. What is _Machine Learning_ and how does it differ from traditional programming?
